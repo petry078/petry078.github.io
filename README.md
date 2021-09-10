@@ -3,7 +3,7 @@ Guilherme M. Petry - Portfólio
 
 Este site é um projeto de portfólio profissional pessoal. 
 
-Sou jornalista cobrindo tecnologia, segurança da informação e privacidade de dados. Da uma olhada ai: petry078.github.io e me diz o que achou ;D
+Sou jornalista cobrindo tecnologia, segurança da informação e privacidade de dados. Da uma olhada ai: [petry078.github.io](petry078.github.io) e me diz o que achou ;D
 
 Início do projeto: 22 de outubro de 2018.
 
