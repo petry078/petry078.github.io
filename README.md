@@ -1,6 +1,4 @@
 # petry078.github.io
-Guilherme M. Petry - Portfólio
-
 Portfólio pessoal de Guilherme Petry.
 
 Da uma olhada primeiro: [petry078.github.io](https://petry078.github.io) e me diz o que achou ;D
