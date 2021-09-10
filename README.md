@@ -1,6 +1,4 @@
 # petry078.github.io
-Portfólio pessoal de Guilherme Petry.
-
 Da uma olhada primeiro: [petry078.github.io](https://petry078.github.io) e me diz o que achou ;D
 
 Início do projeto: 22 de outubro de 2018.
