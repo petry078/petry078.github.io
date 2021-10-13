@@ -1,5 +1,5 @@
 # petry078.github.io
-Da uma olhada primeiro: [petry078.github.io](https://petry078.github.io) e me diz o que achou ;D
+Da uma olhada primeiro: [petry078.github.io](https://petry078.github.io) depois me diz o que achou por email: petry078@gmail.com
 
 Início do projeto: 22 de outubro de 2018.
 
